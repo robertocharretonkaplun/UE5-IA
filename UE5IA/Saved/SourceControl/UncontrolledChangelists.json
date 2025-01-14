@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/AICharacters/BP_ThirdPersonCharacter1.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/AICharacters/BP_FistNPC.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/AICharacters/BP_SimpleNPC.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/AIControllers/AIController_SimpleNPC.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/75/9110Y2AP57AUV6RSXR6LUH.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/N1/3IUU1VBDEC6CIWKE2F5POZ.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/SQ/QD89465581DZWKEOF8B98L.uasset"
+			]
+		}
+	]
+}
