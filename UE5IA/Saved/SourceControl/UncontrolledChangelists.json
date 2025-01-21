@@ -16,6 +16,9 @@
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/AITasks/BTTask_MoveToRandomLoc.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/AIControllers/AIController_PerceptionNPC.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/Blackboards/BB_SimpleNPC.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/Decorators/BTDecorator_CheckScale.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/Actors/BP_Semaforo.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/UE5-IA/UE5IA/Content/Blueprints/AICharacters/BP_ThirdPersonCharacter1.uasset"
 			]
 		}
